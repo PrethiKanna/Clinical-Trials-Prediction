@@ -3,6 +3,7 @@
 This project aims to predict the completion status of clinical trials using machine learning techniques. The workflow involves data preprocessing, feature engineering, model training with XGBoost, and deployment of an interactive web application using Streamlit.
 
 **⚙️ Features**
+
 Preprocessing Notebook:
 Removes redundant columns (e.g., IDs, text-heavy fields).
 Handles missing values with categorical replacement & median imputation.
